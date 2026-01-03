@@ -1,0 +1,26 @@
+/*@import "tailwindcss/preflight";*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    html {
+        @apply bg-background text-foreground antialiased;
+    }
+
+    h1 {
+        @apply text-5xl font-bold tracking-tight;
+    }
+
+    h2 {
+        @apply text-3xl font-bold tracking-tight;
+    }
+
+    h3 {
+        @apply text-xl font-semibold;
+    }
+
+    p {
+        @apply text-base text-muted leading-relaxed;
+    }
+}

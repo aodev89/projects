@@ -1,5 +1,6 @@
 # Projects
 
-### list over all my projects
+### All projects i have done or worked on.
 
-- First app :smile: (in progress..)
+- My portfolio (in progress..) :smile:
+-
